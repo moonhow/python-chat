@@ -2,7 +2,7 @@
 
 ## Introduction
 This project is consists of 
-1. Serverless functions deployed to AWS as Lambda functions & exposed as WebSocket API, at wss://jbhdr7m2o0.execute-api.ap-southeast-1.amazonaws.com/dev
+1. Serverless functions deployed to AWS as Lambda functions & exposed as WebSocket API through API Gateway, at wss://jbhdr7m2o0.execute-api.ap-southeast-1.amazonaws.com/dev
 2. A Chat CLI client which accept the first argument as username.
 
 ## Run Python-Chat Client (Python3)
